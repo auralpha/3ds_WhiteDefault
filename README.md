@@ -12,7 +12,7 @@ Here some photos so you can see how it looks like.
   <img src="https://github.com/auralpha/3ds_WhiteDefault/blob/main/1780821213919.jpg" width="200">
 </div>
 
-### Layout that doesn't looks good:
+### Layout that doesn't look good:
 <div style="display: flex; gap: 30px;">
   <img src="https://github.com/auralpha/3ds_WhiteDefault/blob/main/1780821213931.jpg" width="200">
   <img src="https://github.com/auralpha/3ds_WhiteDefault/blob/main/1780821213944.jpg" width="200">
@@ -20,6 +20,14 @@ Here some photos so you can see how it looks like.
 
 ---
 
+# "Screenshot Preview" made with PL Theme Maker
+<div style="display: flex; gap: 30px;">
+  <img src="https://github.com/auralpha/3ds_WhiteDefault/blob/main/3ds_WhiteDefault/bannerscreenshot.png" width="200">
+  <img src="https://github.com/auralpha/3ds_WhiteDefault/blob/main/3ds_WhiteDefault/gridscreenshot.png" width="200">
+  <img src="https://github.com/auralpha/3ds_WhiteDefault/blob/main/3ds_WhiteDefault/themescreenshot.png" width="200">
+</div>
+
+---
 # How to install
 
 Download the lastest version of the Theme (.zip or .7zip)
@@ -31,3 +39,4 @@ If PicoLauncher is not already installed, go to <a href="https://sanrax.github.i
 Then open your `settings.json` file in `./_pico` and find `"theme":` (in line 5 for example) and edit this line to `  "theme": "3ds_WhiteDefault",`.
 
 Great! Your theme is now activated. You can put your SD card back in your flashcard and launch it on your NDS!
+

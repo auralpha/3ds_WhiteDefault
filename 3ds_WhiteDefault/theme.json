@@ -1,0 +1,132 @@
+{
+    "type": "custom",
+    "name": "3ds_WhiteDefault",
+    "description": "Reproduction of the Nintendo 3DS interface (default white theme) adapted for PicoLauncher",
+    "author": "Mia_D",
+    "primaryColor": {
+        "r": 187,
+        "g": 187,
+        "b": 187
+    },
+    "darkTheme": false,
+    "topIcon": {
+        "position": {
+            "x": -47,
+            "y": 102
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "topBannerTextLine0": {
+        "position": {
+            "x": 75,
+            "y": 122
+        },
+        "width": 100,
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "topBannerTextLine1": {
+        "position": {
+            "x": 75,
+            "y": 140
+        },
+        "width": 103,
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "topBannerTextLine2": {
+        "position": {
+            "x": 74,
+            "y": 155
+        },
+        "width": 103,
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "topFileNameText": {
+        "position": {
+            "x": 41,
+            "y": 178
+        },
+        "width": 220,
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "gridIcon": {
+        "blendColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        }
+    },
+    "bannerListIcon": {
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "bannerListTextLine0": {
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        }
+    },
+    "bannerListTextLine1": {
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        }
+    },
+    "bannerListTextLine2": {
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        }
+    },
+    "topCover": {
+        "position": {
+            "x": 77,
+            "y": 21
+        }
+    }
+}

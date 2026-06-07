@@ -1,7 +1,7 @@
 {
     "type": "custom",
     "name": "3ds_WhiteDefault",
-    "description": "Copy of the 3DS interface (default white theme) adapted for PicoLauncher",
+    "description": "Recreation of the 3DS interface (default white theme) adapted for PicoLauncher",
     "author": "Mia_D",
     "primaryColor": {
         "r": 187,
